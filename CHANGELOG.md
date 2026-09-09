@@ -21,7 +21,7 @@ Thank you to the more than 80 people who ran the preview builds, sent logs, and 
 
 ### Upgrade from 2.x
 
-1. macOS 27 is required. There is no 2.x compatibility layer.
+1. macOS 27 Beta 8+ is required. There is no 2.x compatibility layer.
 2. Update channel is Nightly for now.
 3. The Ice-era settings migrations have been removed. They could never run against the new defaults domain, so nothing is lost by dropping them.
 
@@ -29,7 +29,7 @@ Thank you to the more than 80 people who ran the preview builds, sent logs, and 
 
 ### Not here yet
 
-Three things from the 2.1 preview line are still on their way to macOS 27.
+Three things from the 2.1 preview line are still on their way to macOS 27. Another one will be available on a future update.
 
 - **Scripts.** Script-driven bar modules are being tested by macOS 26 users on the 2.1.0 beta and will be added in a later 3.0 build. The Scripts pane is here as a preview of where they will live.
 - **Widgets.** The Widgets pane is a placeholder so the destination is discoverable; it holds no settings yet.
