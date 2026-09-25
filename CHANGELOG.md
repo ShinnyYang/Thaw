@@ -278,6 +278,11 @@ These people reported what's fixed above, or tested the fixes:
 
 **macOS 26 only · Build 61**
 
+> [!IMPORTANT]
+> **This is the last beta before the release candidate.**
+>
+> The next 2.1.0 build is the release candidate. If something looks wrong in this one, please report it now.
+
 A bug-fix release. Thaw stops relaunching your menu bar apps without asking, and fixes the new-item and app-menu bugs beta.4 left behind.
 
 ### Fixes
