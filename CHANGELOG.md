@@ -274,7 +274,7 @@ These people reported what's fixed above, or tested the fixes:
 - Kristian Kruse on Discord, hiding Wi-Fi and Bluetooth
 - Probert on Discord, Bluetooth, Wi-Fi and Fast User Switching
 
-## [2.1.0-beta.5] - 2026-09-23
+## [2.1.0-beta.5] - 2026-09-25
 
 **macOS 26 only · Build 61**
 
